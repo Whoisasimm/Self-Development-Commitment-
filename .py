@@ -1,1 +1,0 @@
-"print('Hello Git!')" | Out-File -Encoding utf8 git_practice.py
